@@ -56,7 +56,7 @@ Use a virtual environment to comply with PEP 668.
 Clone the repository and change into its directory:
 
 ```bash
-git clone https://github.com/divinelabio/Argus.git netra-recon
+git clone https://github.com/divinelabio/Netra-Recon.git netra-recon
 cd netra-recon
 ```
 
