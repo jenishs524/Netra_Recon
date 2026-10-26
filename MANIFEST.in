@@ -1,0 +1,5 @@
+include README.md
+recursive-include netra_recon/config *.json
+recursive-include netra_recon/templates *.j2
+recursive-include netra_recon/data *
+include netra_recon/py.typed

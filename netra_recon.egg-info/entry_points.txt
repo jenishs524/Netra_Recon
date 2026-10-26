@@ -1,0 +1,2 @@
+[console_scripts]
+netra-recon = netra_recon.cli.main:main
